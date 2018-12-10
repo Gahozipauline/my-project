@@ -1,0 +1,22 @@
+nav{
+    padding:10px;
+    margin:10px
+}
+nav>a{
+text-align:right;
+text-decoration:none;
+text-transform:uppercase;
+display:inline-block;
+}
+nav> a:hover{
+    color:#ff8080;
+}
+h1{
+  color:blue;
+  font-size:25px;
+  font-style:italic;  
+}
+img{
+    height:150px;
+    width:150px;
+}
