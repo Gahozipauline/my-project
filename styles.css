@@ -22,8 +22,8 @@ h1{
 }
 img{
 
-    height:200px;
-    width:200px;
+    height:250px;
+    width:250px;
     border:1 px solid black;
     text-align: center;
 }
@@ -31,7 +31,9 @@ p{
     font-size:18px;
 }
 body{
-    background-color:silver;
+    background-image:cover;
+    background-repeat:no-repeat;
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbwt2tRb5llpMoP3IbzgnSA59jhRZQfkjQiIuznvM11GZtNPlbfg")
 }
 footer{
     background-color:blanchedalmond;
