@@ -1,9 +1,12 @@
 nav{
     padding:10px;
-    margin:10px
+    margin:10px;
+    background-color:blanchedalmond;
+    text-align: right;
+    border-radius: 40px;
 }
 nav>a{
-text-align:right;
+text-align:left;
 text-decoration:none;
 text-transform:uppercase;
 display:inline-block;
@@ -14,9 +17,23 @@ nav> a:hover{
 h1{
   color:blue;
   font-size:25px;
-  font-style:italic;  
+  font-style:italic; 
+  text-align: left; 
 }
 img{
-    height:150px;
-    width:150px;
+
+    height:200px;
+    width:200px;
+    border:1 px solid black;
+    text-align: center;
+}
+p{
+    font-size:18px;
+}
+body{
+    background-color:silver;
+}
+footer{
+    background-color:blanchedalmond;
+    border-radius:40px;
 }
