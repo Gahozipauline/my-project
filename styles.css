@@ -6,7 +6,7 @@ nav{
     border-radius: 40px;
 }
 nav>a{
-text-align:left;
+text-align:center;
 text-decoration:none;
 text-transform:uppercase;
 display:inline-block;
@@ -18,24 +18,34 @@ h1{
   color:blue;
   font-size:25px;
   font-style:italic; 
-  text-align: left; 
+  text-align: center; 
 }
 img{
-
+    border-radius:40px;
     height:250px;
     width:250px;
     border:1 px solid black;
-    text-align: center;
+    margin-left: 500px;
 }
 p{
     font-size:18px;
+    text-align:center;
 }
 body{
-    background-image:cover;
     background-repeat:no-repeat;
-    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbwt2tRb5llpMoP3IbzgnSA59jhRZQfkjQiIuznvM11GZtNPlbfg")
-}
-footer{
+    background-size:cover;
+    background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2bFeFLmS_l3Wp1iWgdGO1tQ206z7ED-YFQXHxc-OqS2fq7z3Y')
+        }
+  footer{    
     background-color:blanchedalmond;
     border-radius:40px;
+}
+h2{
+    text-align:center;
+}
+h3{
+    text-align:center;
+}
+li{
+text-align:center;
 }
